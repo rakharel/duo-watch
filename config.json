@@ -1,0 +1,13 @@
+{
+  "zip_codes": ["13204"],
+  "parts": {
+    "MK1E4LL/A": "iPhone Duo 256GB Star White",
+    "MK1F4LL/A": "iPhone Duo 256GB Night Sky"
+  },
+  "watch_delivery": true,
+  "notify_on_error_after": 4,
+  "renotify_minutes": 30,
+  "heartbeat": true,
+  "heartbeat_hour": 8,
+  "timezone": "America/New_York"
+}
